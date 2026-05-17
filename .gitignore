@@ -1,0 +1,7 @@
+# LLM Wiki Ignores
+staging/*
+!staging/.gitkeep
+audit/*.md
+.DS_Store
+__pycache__/
+*.pyc
